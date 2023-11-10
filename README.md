@@ -20,7 +20,5 @@ The script uses a dictionary (`ASCII`) to map characters to their binary represe
 
 ```bash
 Enter a word: Hello, World!
-Character count: 13
 Binary representation:
 01001000 01100101 01101100 01101100 01101111 00101100 00100000 01010111 01101111 01110010 01101100 01100100 00100001
-Success
