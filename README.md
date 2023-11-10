@@ -9,9 +9,6 @@ Crimson is a Python script that takes a word as input, counts the number of char
 - [Usage](#usage)
 - [ASCII Dictionary](#ascii-dictionary)
 - [Example](#example)
-- [Code](#code)
-- [Author](#author)
-- [License](#license)
 
 ## Usage
 
