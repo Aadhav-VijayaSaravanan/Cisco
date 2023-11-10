@@ -20,7 +20,7 @@ Crimson is a Python script that takes a word as input, counts the number of char
 2. Run the script by executing the following command in your terminal:
 
    ```bash
-   python crimson.py `
+   python crimson.py
 
 1.  Enter a word when prompted.
 
@@ -28,7 +28,8 @@ Crimson is a Python script that takes a word as input, counts the number of char
 
 
 ## Example
-`Enter a word: Hello, World!
+```
+Enter a word: Hello, World!
 
 Binary representation:
 
