@@ -1,8 +1,8 @@
 # Crimson
-
+`Crimson is a Python script that processes input words, printing binary character representations using a predefined ASCII dictionary.`
 ## About
 
-Crimson is a Python script that takes a word as input, counts the number of characters in the word, and then prints the binary representation of each character using a predefined ASCII dictionary.
+Crimson is a Python script that takes a word as input, then prints the binary representation of each character using a predefined ASCII dictionary.
 
 ## Table of Contents
 
