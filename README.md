@@ -25,3 +25,11 @@ Crimson is a Python script that takes a word as input, counts the number of char
 1.  Enter a word when prompted.
 
 2.  The script will display the binary representation of each character in the input word.
+
+
+## Example
+`Enter a word: Hello, World!
+
+Binary representation:
+
+01001000 01100101 01101100 01101100 01101111 00101100 00100000 01010111 01101111 01110010 01101100 01100100 00100001`
