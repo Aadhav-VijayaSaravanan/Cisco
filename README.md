@@ -27,7 +27,7 @@ Crimson is a Python script that takes a word as input, counts the number of char
 2.  The script will display the binary representation of each character in the input word.
 
 ## ASCII Dictionary
-```bash
+```python
    ASCII = {
      "A": '01000001', "B": '01000010', "C": '01000011', "D": '01000100', "E": '01000101',
      "F": '01000110', "G": '01000111', "H": '01001000', "I": '01001001', "J": '01001010',
@@ -49,7 +49,7 @@ Crimson is a Python script that takes a word as input, counts the number of char
      "[": '01011011', "\\": '01011100', "]": '01011101', "^": '01011110', "_": '01011111',
      "`": '01100000', "{": '01111011', "|": '01111100', "}": '01111101', "~": '01111110'
    }
-
+```
 ## Example
 ```
 Enter a word: Hello, World!
