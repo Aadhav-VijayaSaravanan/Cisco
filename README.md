@@ -1,4 +1,4 @@
-# ASCII Character Binary Representation
+## Zenith
 
 This Python script takes a word as input, counts the number of characters in the word, and then prints the binary representation of each character using a predefined ASCII dictionary.
 
