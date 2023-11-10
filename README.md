@@ -10,7 +10,7 @@ This Python script takes a word as input, counts the number of characters in the
 
 3. Enter a word when prompted.
 
-4. The script will display the character count and the binary representation of each character in the input word.
+4. The script will display the binary representation of each character in the input word.
 
 ## ASCII Dictionary
 
