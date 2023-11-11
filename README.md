@@ -14,11 +14,14 @@ within the word, leveraging a predefined ASCII dictionary. The script exemplifie
 ## Usage
 
 1. Clone or download this repository to your local machine.
+2. To open the folder by executing the following command in your terminal:
+   ```bash
+   cd Crimson-main
 
-2. Run the script by executing the following command in your terminal:
+4. Run the script by executing the following command in your terminal:
 
    ```bash
-   python crimson.py
+   python main.py
 
 1.  Enter a word when prompted.
 
