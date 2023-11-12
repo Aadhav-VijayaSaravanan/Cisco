@@ -1,5 +1,5 @@
 # Cisco
-"Cisco" is a Python script that converts input words to ASCII binary, swaps letter cases, and counts words.
+**Cisco** is a Python script that converts input words to ASCII binary, swaps letter cases, and counts words.
 
 ## About
 
